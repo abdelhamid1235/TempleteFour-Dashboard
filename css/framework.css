@@ -1,0 +1,133 @@
+/*Start the Subscriber to all Project Fils*/
+.page .content-area .draft,
+.page .content-area .targets,
+.page .content-area .tickets,
+.page .content-area .news,
+.page .content-area .taskes,
+.page .content-area .top-search,
+.page .content-area .uploads,
+.page .content-area .last-project,
+.page .content-area .reminder,
+.page .content-area .post,
+.page .content-area .social,
+.page .content-area .projects,
+.page .content-area .site-control,
+.page .content-area .general,
+.page .content-area .security,
+.page .content-area .social-boxes,
+.page .content-area .widgets-control,
+.page .content-area .backup-control,
+.page .content-area .project-section,
+.page .content-area .course,
+.page .content-area .friend,
+.page .content-area .files .states,
+.page .content-area .files .box,
+.page .content-area .plans-section,
+.page .content-area .profile-sec,
+.page .content-area .profile-skill,
+.page .content-area .latest-activitie{
+  margin: var(--margin-section);
+  padding: var(--padding-section);
+  background-color: white;
+  border-radius: var(--border-radius-input);
+  -webkit-border-radius: var(--border-radius-input);
+  -moz-border-radius: var(--border-radius-input);
+  -ms-border-radius: var(--border-radius-input);
+  -o-border-radius: var(--border-radius-input);
+  box-shadow: var(--box-shadow);
+}
+.page .content-area  input[type="text"],
+.page .content-area  input[type="email"],
+.page .content-area  textarea{
+  display: block;
+  margin: 10px 0;
+  width: 100%;
+  padding: 10px;
+  border-radius: var(--border-radius);
+  -webkit-border-radius: var(--border-radius);
+  -moz-border-radius: var(--border-radius);
+  -ms-border-radius: var(--border-radius);
+  -o-border-radius: var(--border-radius);
+  border:none;
+  background-color: #eee;
+}
+.page .content-area  textarea{
+  resize: none;
+  height: 200px;
+}
+.page .content-area .draft input[type="submit"]{
+  display: block;
+  background-color: var(--blue-color);
+  padding: 5px 10px;
+  margin: 0 0px 0px auto;
+  color:white;
+  border:none;
+  border-radius: var(--border-radius);
+  -webkit-border-radius: var(--border-radius);
+  -moz-border-radius: var(--border-radius);
+  -ms-border-radius: var(--border-radius);
+  -o-border-radius: var(--border-radius);
+}
+/*End the Subscriber to all Project Fils*/
+
+/* Start background-color*/
+.b-red{
+  background-color:#f44336;  
+}
+.b-orange{
+  background-color:#f59e0b;
+}  
+.b-blue{
+  background-color:#0075ff;
+} 
+.b-green{
+  background-color:#22c55e;
+} 
+.b-d2ecfc{
+  background-color:#d2ecfc;
+} 
+.b-d1e4fc{
+  background-color:#d1e4fc;
+} 
+.b-ffcccc{
+  background-color:#ffcccc;
+} 
+.b-cce4f0{
+  background-color:#cce4f0;
+} 
+.b-ff0000{
+ background-color:#ff0000; 
+}
+.b-1da1f2{
+background-color:#1da1f2; 
+}
+.b-0075ff{
+ background-color:#0075ff; 
+}
+.b-0077b5{
+background-color:#0077b5; 
+}
+/*End Background-color*/
+/*Start Color*/
+.c-red{
+ color:#ff0000; 
+}
+.c-1da1f2{
+color:#1da1f2; 
+}
+.c-0075ff{
+ color:#0075ff; 
+}
+.c-0077b5{
+ color:#0077b5; 
+}
+.c-green{
+  color:#22c55e;
+} 
+.c-gery{
+  color:#777;
+} 
+.c-orange{
+  color:#f59e0b;
+}
+/*End Color*/
